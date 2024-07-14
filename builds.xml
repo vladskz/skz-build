@@ -1,12 +1,17 @@
-<builds>
+id="plugin.program.skz"
+version="1.0.0"
+zip="https://github.com/vladskz/skz.github.io/blob/main/plugin.program.skz.zip"
 
-  <build>
-	<name>skz v21 - premium</name>
-	<version>1.0</version>
-	<url>https://www.dropbox.com/scl/fi/kgqniqhe7hz5lkg201sfr/skz-v21-premium.zip?rlkey=oa7hi17znfeg95d7yf63b2hz1&st=m989d7gw&dl=1</url>
-	<icon>https://github.com/vladskz/skz-build/blob/main/icon.png</icon>
-	<fanart>https://github.com/vladskz/skz-build/blob/main/fanart.jpg</fanart>
-	<description>Build cu continut Premium, necesita serviciul Real-Debrid</description>
-  </build>
-  
-</builds>
+name="skz v21 - Premium"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/kgqniqhe7hz5lkg201sfr/skz-v21-premium.zip?rlkey=oa7hi17znfeg95d7yf63b2hz1&st=wl6w7t7p&dl=0"
+minor="http://"
+gui="https://github.com/vladskz/skz.github.io/blob/main/guisettings.xml"
+kodi="v21"
+theme="http://your.themes.url"
+icon="https://github.com/vladskz/skz-build/blob/main/icon.png"
+fanart="https://github.com/vladskz/skz-build/blob/main/fanart.jpg"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="https://github.com/vladskz"
+description="Build cu continut Premium, necesita serviciul Real-Debrid si Trakt"
